@@ -1,0 +1,9 @@
+This is a simple helper library for homework2 and homework3. 
+
+This library only contain simple vector3 and vector4 calculation and a very simple matrix4x4 calculation.
+
+Since I use it for HW1 HW2 and HW3 and the library works well, I hope this can help you.
+
+Please note that I didn't fully test the library, when you want to use please read through the code.
+
+And I suggest that you write your own helper function to help your homework.  
